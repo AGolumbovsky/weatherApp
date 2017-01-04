@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
     return (
         <div>
-            <h1 className="text-center"> About Componenet </h1>
+            <h1 className="text-center page-title"> About Componenet </h1>
             <p> React application this is for me to learn React </p>
             <p> Here are tools I used: </p>
             <ul>
